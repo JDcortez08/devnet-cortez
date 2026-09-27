@@ -19,10 +19,10 @@ and neatly moves the file right into it.
 ============================================
 KEY VOCABULARY
 ============================================
-- os module:
-- shutil module:
-- file path:
-- directory:
+- os module: work with things on my computer, like folders, files, and file locations
+- shutil module: can use to manage files and folders, such as copying, moving, or deleting them.
+- file path: the location of a file or folder on my computer.
+- directory: basically another word for a folder. It is used to organize files and other folders.
 (add more as needed)
 
 
